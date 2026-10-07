@@ -1,0 +1,25 @@
+﻿# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files (sensitive state files, backups)
+*.tfstate
+*.tfstate.*
+*.tfstate.backup
+
+# Crash log files
+crash.log
+crash.*.log
+
+# Exclude sensitive tfvars files
+*.tfvars
+*.tfvars.json
+*.auto.tfvars
+*.auto.tfvars.json
+
+# Private keys & certificates
+*.pem
+*.key
+*.cer
+
+# Local notes / roadmaps
+*.local.md
