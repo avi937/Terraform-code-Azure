@@ -13,7 +13,7 @@ A structured collection of production-grade Microsoft Azure Infrastructure as Co
 | # | Project | Description | Status |
 | :---: | :--- | :--- | :---: |
 | **01** | [**Project 1: Enterprise Multi-Tier VNet & NSG**](./project-1/README.md) | Modular Resource Groups, Multi-Tier Subnetting (Web, App, DB), Priority-based NSG firewalls, and Azure Storage remote state backend. | `Completed ✅` |
-| **02** | [**Project 2: High Availability & VMSS Auto-Scaling**](./project-2/) | Virtual Machine Scale Sets (VMSS) behind an Azure Load Balancer with dynamic CPU-based autoscaling rules. | *Planned 📅* |
+| **02** | [**Project 2: High Availability & VMSS Auto-Scaling**](./project-2/README.md) | Virtual Machine Scale Sets (VMSS) behind an Azure Load Balancer with dynamic CPU-based autoscaling rules. | `Completed ✅` |
 | **03** | [**Project 3: Enterprise 3-Tier Web Application**](./project-3/) | Public Load Balancer &rarr; Private VMSS Web Tier &rarr; Private Azure SQL Database with Azure Key Vault & Managed Identities. | *Planned 📅* |
 
 ---
